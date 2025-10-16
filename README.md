@@ -32,7 +32,7 @@
     - Diseño **responsive** (mobile-first).
     - Accesibilidad mínima: `alt` en imágenes, foco visible, buen contraste.
 
-    **Repo:** https://github.com/USUARIO/gestion-libros-java
+    **Repo:** https://github.com/sebakhazzaka2/gestion-libros-java
 
     ---
     Autor: **Sebastián Khazzaka** (ORT Uruguay)  
